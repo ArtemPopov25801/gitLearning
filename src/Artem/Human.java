@@ -16,8 +16,8 @@ public  class Human {
 
 
     public Human () {
-        name = "Artem";
-        surename = "Popov";
+        name = "Super";
+        surename = "Puper";
         birthdate = Utils.parseDate("12.02.1994");
      //    this.birthdate = "12.02.1994";  - не знаю как записать дату ///
     }  // <---- пустой конструктор
